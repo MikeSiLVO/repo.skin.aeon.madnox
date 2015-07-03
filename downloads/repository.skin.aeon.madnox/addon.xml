@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.skin.aeon.madnox" name="Aeon MadNox Repository" version="1.0" provider-name="SiLVO">
+	<extension point="xbmc.addon.repository" name="Aeon MadNox Repo">
+		<info>https://github.com/mikesilvo164/repo.skin.aeon.madnox/raw/master/addons.xml</info>
+		<checksum>https://github.com/mikesilvo164/repo.skin.aeon.madnox/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/mikesilvo164/repo.skin.aeon.madnox/raw/master/downloads/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Aeon MadNox repo</summary>
+		<description>Main Repository for Aeon MadNox</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
